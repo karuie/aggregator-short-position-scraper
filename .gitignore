@@ -1,0 +1,18 @@
+# Python files
+*.pyc
+__pycache__
+
+# Virtual environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
